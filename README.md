@@ -1,4 +1,4 @@
-# GenerateJokes
+# Generate Jokes
 
 ## Introduction
 
