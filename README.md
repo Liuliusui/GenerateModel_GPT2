@@ -3,7 +3,7 @@
 ## Introduction
 
 The main purpose of this code is to clean the jokes data and fine-tune the GPT2LMHEADmodel to generate jokes. In this training, only 5 epochs of the first 20,000 rows of data were trained due to the large size of the data.
-Already fine-tuning can donwload from [https://pan.quark.cn/s/e372bd9ac146](https://pan.quark.cn/s/e372bd9ac146)  
+Already fine-tuning can donwload from [Quark Cloud](https://pan.quark.cn/s/e372bd9ac146),[Baidu Cloud](https://pan.baidu.com/s/1JZDgPox9cZF-C8ltSN7fwA?pwd=xfvs)
 
 ## Getting Started
 
